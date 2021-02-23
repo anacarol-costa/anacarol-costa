@@ -1,10 +1,8 @@
-<script src="https://gist.github.com/tgmarinho/6cf35ac45644a0b68a45069d23c2e4b6.js"></script>
+## Ana Carolina :woman:
 
-## Ana Carolina 
+## Hello, guys :wave:
 
-## Hello, guys 
-
-:cherry_blossom: & nbsp; I'm studying to be a front-end dev.
+:cherry_blossom: I'm studying to be a front-end dev :computer:
 
 I am currently learning JS, Big-O Notation. 
 At the end of last year (2020), I learned HTML5, CSS3 and the basics of Programming Logic. In addition to JS, the next step is to study Data Structure and Front-end Frameworks (React and Angular, which, by the way, I will start studying in March 2021 - next month).
@@ -13,11 +11,9 @@ I am still a newcomer in the area of ​​information technology, however I can
 
 
 My communication channels: 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-costa-91a74842/)](https://www.linkedin.com/in/ana-carolina-costa-91a74842/)
-
-Rocketseat https://app.rocketseat.com.br/me/ana-carolina-da-costa-04229 
-
-[ ! [selo do Gmail] (carol.costa2502@gmail.com) ] 
+<br />[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-costa-91a74842/)](https://www.linkedin.com/in/ana-carolina-costa-91a74842/)
+<br /> :rocket: https://app.rocketseat.com.br/me/ana-carolina-da-costa-04229 
+<br /> :email: carol.costa2502@gmail.com 
 
 
 
