@@ -29,7 +29,7 @@
   <a href = "mailto:carol.costa2502@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/anacarolcost4" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
- 
+![Snake animation](https://github.com/anacarol-costa/anacarol-costa/blob/output/github-contribution-grid-snake.svg) 
 
   </div>
 
