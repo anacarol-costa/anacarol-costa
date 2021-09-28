@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 Pretendo trabalhar com front-end/ full stack (Pós graduanda em Desenvolvimento Web Full Stack)
 
-- 📚 Estudando Java e ReactJS
+- 📚 Estudando JavaScript e ReactJS
 
 <div>
   <a href="https://github.com/anacarol-costa">
