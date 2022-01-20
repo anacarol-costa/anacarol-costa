@@ -6,6 +6,8 @@
 
 - 📚 Estudando JavaScript e ReactJS
 
+- 📚 Desenvolvendo projeto de TCC da pós graduação
+
 <div>
   <a href="https://github.com/anacarol-costa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarol-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
