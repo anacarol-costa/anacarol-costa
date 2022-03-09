@@ -2,7 +2,7 @@
 
 
 
-- 👩🏻‍💻 Pretendo trabalhar com front-end/ full stack (Pós graduanda em Desenvolvimento Web Full Stack)
+- 👩🏻‍💻 Pretendo trabalhar com back-end/ full stack (Pós graduanda em Desenvolvimento Web Full Stack)
 
 - 📚 Estudando JavaScript e ReactJS
 
