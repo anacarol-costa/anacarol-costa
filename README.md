@@ -2,11 +2,11 @@
 
 
 
-- 👩🏻‍💻 Pretendo trabalhar com back-end/ full stack (Pós graduanda em Desenvolvimento Web Full Stack)
+- 👩🏻‍💻 Pretendo trabalhar com back-end/ full stack (Pós graduanda em Desenvolvimento Web Full Stack);
 
-- 📚 Estudando JavaScript e ReactJS
+- 📚 Estudando JavaScript, ReactJS e Kotlin;
 
-- 📚 Desenvolvendo projeto de TCC da pós graduação
+- 📚 TCC -> Desenvolvendo projeto web da pós-graduação lato sensu: [SIGEN](https://sigen-frontend.herokuapp.com/) - Sistema de Gerenciamento de Encomendas e Cardápio.
 
 <div>
   <a href="https://github.com/anacarol-costa">
