@@ -1,14 +1,12 @@
 ## Olá! eu sou a Ana Carolina da Costa :wave:
 
-
-
 - 👩🏻‍💻 Pretendo trabalhar com back-end/ full stack (Pós graduanda em Desenvolvimento Web Full Stack);
 
 - 📚 Estudando JavaScript, ReactJS e Kotlin;
 
 - 📚 TCC -> Desenvolvendo projeto web da pós-graduação lato sensu: [SIGEN](https://sigen-frontend.herokuapp.com/) - Sistema de Gerenciamento de Encomendas e Cardápio.
 
-<div>
+<div align="center">
   <a href="https://github.com/anacarol-costa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarol-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarol-costa&layout=compact&langs_count=7&theme=dracula"/>
