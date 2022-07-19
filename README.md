@@ -4,7 +4,7 @@
 
 - 📚 Estudando JavaScript, ReactJS e Kotlin;
 
-- 📚 TCC -> Projeto web da pós-graduação lato sensu entregue (aguardando última nota): [SIGEN](https://sigen-frontend.herokuapp.com/) - Sistema de Gerenciamento de Encomendas e Cardápio.
+- 📚 TCC -> Projeto web da pós-graduação lato sensu status [aprovada](https://www.linkedin.com/posts/ana-carolina-costa-91a74842_notamaxima-desenvolvimento-pucminas-activity-6949876551140192256-K13q?utm_source=linkedin_share&utm_medium=member_desktop_web): [SIGEN](https://sigen-frontend.herokuapp.com/) - Sistema de Gerenciamento de Encomendas e Cardápio.
 
 <div align="center">
   <a href="https://github.com/anacarol-costa">
