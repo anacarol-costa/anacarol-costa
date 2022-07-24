@@ -1,8 +1,8 @@
 ## Olá! eu sou a Ana Carolina da Costa :wave:
 
-- 👩🏻‍💻 Pretendo trabalhar com back-end/ full stack (Pós graduanda em Desenvolvimento Web Full Stack);
+- 👩🏻‍💻 Pretendo trabalhar com back-end/ full stack (Pós graduada em Desenvolvimento Web Full Stack);
 
-- 📚 Estudando JavaScript, ReactJS e Kotlin;
+- 📚 Estudando Kotlin e Spring;
 
 - 📚 TCC -> Projeto web da pós-graduação lato sensu status [aprovada](https://www.linkedin.com/posts/ana-carolina-costa-91a74842_notamaxima-desenvolvimento-pucminas-activity-6949876551140192256-K13q?utm_source=linkedin_share&utm_medium=member_desktop_web): [SIGEN](https://sigen-frontend.herokuapp.com/) - Sistema de Gerenciamento de Encomendas e Cardápio.
 
@@ -18,6 +18,7 @@
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt="Carol-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Carol-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Carol-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Carol-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Carol-anime" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
