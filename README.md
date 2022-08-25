@@ -1,6 +1,6 @@
-## Olá! eu sou a Ana Carolina da Costa :wave:
+## Olá! eu sou a [Ana Carolina da Costa](https://www.linkedin.com/in/ana-carolina-costa-91a74842/) :cherry_blossom: :woman_technologist: :cherry_blossom:
 
-- 👩🏻‍💻 Pretendo trabalhar com back-end/ full stack (Pós graduada em Desenvolvimento Web Full Stack);
+- 👩🏻‍💻 Pretendo trabalhar com back-end/ full stack ([Pós graduada em Desenvolvimento Web Full Stack pela PUC Minas](https://drive.google.com/file/d/17KfoySz2FBVoPj_jZrxJGMIJAZS2rEr4/view?usp=sharing));
 
 - 📚 Estudando Kotlin e Spring;
 
