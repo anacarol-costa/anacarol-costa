@@ -1,6 +1,6 @@
 ## Olá! eu sou a [Ana Carolina da Costa](https://www.linkedin.com/in/ana-carolina-costa-91a74842/) :cherry_blossom:
 
-## Sobre mim:
+## Sobre mim
 
 - :woman_technologist: Pretendo trabalhar com back-end/ full stack ([Pós-graduada em Desenvolvimento Web Full Stack pela PUC Minas](https://drive.google.com/file/d/17KfoySz2FBVoPj_jZrxJGMIJAZS2rEr4/view?usp=sharing));
 
