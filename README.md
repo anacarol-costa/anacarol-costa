@@ -4,7 +4,7 @@
 
 - :woman_technologist: Pretendo trabalhar com back-end/ full stack ([Pós-graduada em Desenvolvimento Web Full Stack pela PUC Minas](https://drive.google.com/file/d/17KfoySz2FBVoPj_jZrxJGMIJAZS2rEr4/view?usp=sharing));
 
-- 📚 Estudando Kotlin e Spring;
+- 📚 Estudando Kotlin, Spring, RPA, Inglês e Coreano;
 
 - 📚 TCC -> Projeto web da pós-graduação lato sensu status [aprovada](https://www.linkedin.com/posts/ana-carolina-costa-91a74842_notamaxima-desenvolvimento-pucminas-activity-6949876551140192256-K13q?utm_source=linkedin_share&utm_medium=member_desktop_web): [SIGEN](https://sigen-frontend.herokuapp.com/) - Sistema de Gerenciamento de Encomendas e Cardápio.
 
