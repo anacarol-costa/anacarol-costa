@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-- :woman_technologist: Pretendo trabalhar com back-end/ full stack ([Pós-graduada em Desenvolvimento Web Full Stack pela PUC Minas](https://drive.google.com/file/d/17KfoySz2FBVoPj_jZrxJGMIJAZS2rEr4/view?usp=sharing));
+- :woman_technologist: [Pós-graduada em Desenvolvimento Web Full Stack pela PUC Minas](https://drive.google.com/file/d/17KfoySz2FBVoPj_jZrxJGMIJAZS2rEr4/view?usp=sharing) e Desenvolvedora RPA Uipath;
 
-- 📚 Estudando Kotlin, Spring, RPA, Inglês e Coreano;
+- 📚 Estudando Kotlin, Spring, RPA, Inglês;
 
 - 📚 TCC -> Projeto web da pós-graduação lato sensu status [aprovada](https://www.linkedin.com/posts/ana-carolina-costa-91a74842_notamaxima-desenvolvimento-pucminas-activity-6949876551140192256-K13q?utm_source=linkedin_share&utm_medium=member_desktop_web): [SIGEN](https://sigen-frontend.herokuapp.com/) - Sistema de Gerenciamento de Encomendas e Cardápio.
 
@@ -49,11 +49,3 @@
 
 ![Snake animation](https://github.com/anacarol-costa/anacarol-costa/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
-
-
-
-
-
-
