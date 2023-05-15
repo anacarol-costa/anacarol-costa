@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- :woman_technologist: [Pós-graduada em Desenvolvimento Web Full Stack pela PUC Minas](https://drive.google.com/file/d/17KfoySz2FBVoPj_jZrxJGMIJAZS2rEr4/view?usp=sharing) e Desenvolvedora RPA Uipath;
+- :woman_technologist: [Pós-graduada em Desenvolvimento Web Full Stack pela PUC Minas](https://drive.google.com/file/d/1wAPCUxnr-J2bdPdw7iDcAiu8lHELjBfg/view?usp=sharing) e Desenvolvedora RPA Uipath;
 
 - 📚 Estudando Kotlin, Spring, RPA, Inglês;
 
